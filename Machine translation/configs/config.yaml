@@ -1,0 +1,15 @@
+model:
+  type: "stacked_gru"  # options: stacked_rnn, stacked_lstm, stacked_gru
+  hidden_size: 64
+  num_layers: 2
+  dropout: 0.2  # Dropout rate for regularization
+  bidirectional: false  # Set to true for a bidirectional RNN
+
+training:
+  learning_rate: 0.001
+  num_epochs: 10
+  batch_size: 32
+  weight_decay: 1e-4  # L2 regularization
+  optimizer: "adam"  # options: adam, sgd, rmsprop
+  scheduler: "step"  # options: step, cosine, none
+  step_size: 5  # for step scheduler

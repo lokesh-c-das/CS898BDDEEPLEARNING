@@ -1,0 +1,30 @@
+Original: new jersey is sometimes quiet during autumn , and it is snowy in april .
+Predicted: new jersey est parfois calme en mois automne et il est neigeux en avril <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+
+Original: the united states is usually chilly during july , and it is usually freezing in november .
+Predicted: les états unis est généralement froid en juillet et il est généralement en avril <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+
+Original: california is usually quiet during march , and it is usually hot in june .
+Predicted: californie est généralement calme en mars et il est généralement chaud en juin <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+
+Original: the united states is sometimes mild during june , and it is cold in september .
+Predicted: les états unis est parfois doux en juin et il est froid en septembre <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+
+Original: your least liked fruit is the grape , but my least liked is the apple .
+Predicted: votre fruit aimé des fruits la raisin raisin mais moins aimé est est pomme pomme <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+
+Original: his favorite fruit is the orange , but my favorite is the grape .
+Predicted: son fruit préféré est la mais son favori est la pêche <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+
+Original: paris is relaxing during december , but it is usually chilly in july .
+Predicted: paris est relaxant en décembre mais il est généralement froid en juillet <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+
+Original: new jersey is busy during spring , and it is never hot in march .
+Predicted: new jersey est occupé en printemps et il est jamais chaud en mars <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+
+Original: our least liked fruit is the lemon , but my least liked is the grape .
+Predicted: notre fruit aimé des est la citron mais mon moins aimé est la raisin <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+
+Original: the united states is sometimes busy during january , and it is sometimes warm in november .
+Predicted: les états unis est parfois occupée en janvier et il est parfois chaud en novembre <PAD> <PAD> <PAD> <PAD> <PAD> <PAD>
+
